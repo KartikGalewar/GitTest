@@ -5,4 +5,4 @@ added in gitignore
 testinfg diff
 first after git rm --cached 
 lets change after top command
-cds
+cdsknc
